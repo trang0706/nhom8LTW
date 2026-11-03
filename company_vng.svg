@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="16" fill="#FFFFFF"/>
+  <defs>
+    <linearGradient id="vngGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5500"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+  </defs>
+  <rect x="15" y="15" width="70" height="70" rx="18" fill="url(#vngGrad)"/>
+  <path d="M28 35 L40 65 L48 65 L60 35 L52 35 L44 57 L36 35 Z" fill="#FFFFFF"/>
+  <text x="63" y="63" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="14" font-weight="900" fill="#FFFFFF">NG</text>
+  <circle cx="73" cy="38" r="4" fill="#FACC15"/>
+</svg>
+<!-- phát triển bởi : TuaansNe , Zalo : 0866468126 -->

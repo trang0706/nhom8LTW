@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" fill="none">
+  <defs>
+    <linearGradient id="coverGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="50%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#coverGrad)"/>
+  <circle cx="100" cy="50" r="140" fill="#FFFFFF" fill-opacity="0.04"/>
+  <circle cx="1100" cy="180" r="180" fill="#FFFFFF" fill-opacity="0.05"/>
+  <path d="M0 240L300 160L600 200L900 140L1200 240Z" fill="#FFFFFF" fill-opacity="0.03"/>
+</svg>
+<!-- phát triển bởi : TuaansNe , Zalo : 0866468126 -->

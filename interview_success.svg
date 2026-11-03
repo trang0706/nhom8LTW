@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <defs>
+    <linearGradient id="succGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#EF4444"/>
+    </linearGradient>
+  </defs>
+  <circle cx="200" cy="150" r="120" fill="#FFFBEB"/>
+  <rect x="70" y="50" width="260" height="190" rx="20" fill="#FFFFFF" stroke="#FEF3C7" stroke-width="2"/>
+  <circle cx="200" cy="115" r="34" fill="#FEF3C7"/>
+  <path d="M190 115L197 122L212 107" stroke="#D97706" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="200" y="175" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="15" font-weight="800" fill="#0F172A">Offer Letter Thật 100%</text>
+  <text x="200" y="195" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" fill="#64748B">Dấu mộc xác nhận kỳ thực tập chuẩn khoa</text>
+  <circle cx="85" cy="80" r="8" fill="#F59E0B"/>
+  <circle cx="320" cy="100" r="10" fill="#10B981"/>
+  <circle cx="90" cy="220" r="12" fill="#3B82F6"/>
+</svg>
+<!-- phát triển bởi : TuaansNe , Zalo : 0866468126 -->
